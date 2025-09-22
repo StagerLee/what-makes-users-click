@@ -10,9 +10,9 @@ We extend the Microsoft News Dataset (MIND) with lead images and human annotatio
 
 ## Data Description
 - **Original Dataset**: The Microsoft News Dataset (MIND), available at [msnews.github.io](https://msnews.github.io/) - needed for engagement metrics. 
-- **Images**: 15,080 crawled news thumbnails from MIND articles: https://amsuni-my.sharepoint.com/:f:/g/personal/b_nadalicsotic4_uva_nl/EgXqVe1HcJdLgItX1cb-4boBVUv4G7JGiuzd-0OJnB1q7w?e=XySZAK
-- **Annotations**: 1,054 images annotated by three coders for the presence of News Value Factors as well as code and data on machine annotations (GPT4): https://amsuni-my.sharepoint.com/:f:/g/personal/b_nadalicsotic4_uva_nl/EtaVzzos7WdKtzHcx76LgeABVS4FZnWeqQwPvDafpS-Jmg?e=F7BcZD
-- **Vision API Extracts**: Textual descriptions / tags of each image using Google Vision API: https://amsuni-my.sharepoint.com/:f:/g/personal/b_nadalicsotic4_uva_nl/EjjszlKfpZ1Jm2rXrGYLt28BA-BvydEi9eifuwpqeBz2WA?e=zHftek
+- **Images**: 15,080 crawled news thumbnails from MIND articles: [OneDrive Link - Download](https://amsuni-my.sharepoint.com/:f:/g/personal/b_nadalicsotic4_uva_nl/EgXqVe1HcJdLgItX1cb-4boBVUv4G7JGiuzd-0OJnB1q7w?e=XySZAK)
+- **Annotations**: 1,054 images annotated by three coders for the presence of News Value Factors as well as code and data on machine annotations (GPT4): [OneDrive Link - Download](https://amsuni-my.sharepoint.com/:f:/g/personal/b_nadalicsotic4_uva_nl/EtaVzzos7WdKtzHcx76LgeABVS4FZnWeqQwPvDafpS-Jmg?e=F7BcZD)
+- **Vision API Extracts**: Textual descriptions / tags of each image using Google Vision API: [OneDrive Link - Download](https://amsuni-my.sharepoint.com/:f:/g/personal/b_nadalicsotic4_uva_nl/EjjszlKfpZ1Jm2rXrGYLt28BA-BvydEi9eifuwpqeBz2WA?e=zHftek)
 
 ⚠️ **Important**: The IDs of items (filenames of images and annotation entries) correspond directly to the original **MIND news IDs** (will add .py file with the names of the images for convenient filtering). 
 
